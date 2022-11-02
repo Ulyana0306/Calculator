@@ -1,8 +1,8 @@
 # Calculator
  <br>
-# Лабораторная работа №1. Выполнила: Харитонюк Е.Н. Группа 20ИТ-3
+# Лабораторная работа №1. Выполнила: Шимановская У.В. Группа 20ИТ-3
 
-<h4>Разработка классического калькулятора с использованием C# и WinForm. Программа проверена с помощью Unit Test.</h4>
+<h4>Разработка калькулятора с помощью C# и WinForm. Программа проверена с помощью Unit Test.</h4>
 <br>
 
 ## Links:
@@ -22,12 +22,12 @@
 ## Appearance:
 
 <br>
-<img src="https://github.com/ZazeNya/Calculator/blob/master/CalculatorScreen.jpg" alt="https://github.com/ZazeNya/Calculator/blob/master/CalculatorScreen.jpg">
+<img src="https://github.com/Ulyana0306/Calculator/blob/master/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D1%84%D0%BE%D1%82%D0%BE.jpg" alt="https://github.com/Ulyana0306/Calculator/blob/master/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D1%84%D0%BE%D1%82%D0%BE.jpg">
 <br>
 
 ## Unit Test:
 
-<img src="https://github.com/ZazeNya/Calculator/blob/master/UnitTest.jpg" alt="https://github.com/ZazeNya/Calculator/blob/master/UnitTest.jpg">
+<img src="https://github.com/Ulyana0306/Calculator/blob/master/UnitTest.jpg" alt="https://github.com/Ulyana0306/Calculator/blob/master/UnitTest.jpg">
 <br>
 
 ## Functional:
